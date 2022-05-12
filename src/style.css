@@ -21,6 +21,22 @@
   padding: 100px 20px;
 }
 
+h2 {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 72px;
+}
+
+h2.projects {
+  text-align: center;
+}
+
+img {
+  width: 50%;
+}
+
 h1,
 h2,
 h3,
